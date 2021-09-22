@@ -16,9 +16,9 @@ You are given a historical dataset of a particular type of claim - head-on colli
 2)  Prepare a 15 minute presentation summarising your model. Your presentation should either be in notebook format or a more traditional slide deck.  If you opt for the slide deck     approach, please make sure that you provide supporting code. 
     
     Your presentation should cover the following aspects:
-          - Issues identified with the data and how these were addressed
-          - Data cleansing
-          - Model specification and justification for selecting this model specification
-          - Assessment of your model's accuracy and model diagnostics
-          - Suggestions of how your model could be improved
-          - Practical challenges for implementing your model
+    - Issues identified with the data and how these were addressed
+    - Data cleansing
+    - Model specification and justification for selecting this model specification
+    - Assessment of your model's accuracy and model diagnostics
+    - Suggestions of how your model could be improved
+    - Practical challenges for implementing your model
